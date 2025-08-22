@@ -39,10 +39,6 @@
   <a href="mailto:doffltm1125@naver.com"><img src="https://img.shields.io/badge/Email-FFD1DC?style=flat-square&logo=gmail&logoColor=black"/></a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="180px"/>
-</p>
-
 ---
 
 ☁️🌸⭐ _프로필에 와주셔서 고마워요!_ ⭐🌸☁️  
