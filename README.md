@@ -4,9 +4,6 @@
 여기서 저는 아이디어를 심고, 프로젝트를 가꾸며,  
 몽글몽글한 꿈처럼 코딩을 즐기고 있어요 🌱💻💖  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="200px"/>  
-</p>
 
 ---
 
@@ -14,10 +11,6 @@
 - 🐥 호기심 많은 개발 공부생  
 - 🍠 닉네임처럼 따뜻한 고구마 감성 ☁️  
 - 🍀 지금은 **Java, Go, 웹 개발**을 배우는 중이에요  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="150px"/>
-</p>
 
 ---
 
@@ -57,6 +50,4 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120px"/>
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="120px"/>
-  <img src="https://media.giphy.com/media/11s7Ke7jcNxCHS/giphy.gif" width="120px"/>
 </p>
