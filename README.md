@@ -27,7 +27,6 @@
 
 ## 🌟 깃허브 통계
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goguma1111&show_icons=true&theme=tokyonight&title_color=FFB6C1&icon_color=FFD700" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goguma1111&layout=compact&theme=tokyonight&title_color=FFB6C1" height="160"/>
 </p>
 
