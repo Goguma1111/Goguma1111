@@ -40,10 +40,7 @@
 ---
 
 ## 🌟 깃허브 통계
-<img src="https://github-readme-stats.vercel.app/api?username=goguma1111&show_icons=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=FFB6C1&text_color=555555" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goguma1111&layout=compact&bg_color=FFF0F5&title_color=FF69B4&text_color=555555" height="150"/>
-
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=goguma1111&theme=pink&background=FFF0F5&stroke=FFB6C1&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" height="150"/>
 
 ## 🐰 연락하기
 <a href="https://github.com/goguma1111"><img src="https://img.shields.io/badge/GitHub-FFF0F5?style=flat-square&logo=github&logoColor=black"/></a>
