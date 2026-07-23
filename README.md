@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 🌸 안녕하세요! 고구마입니다 🌸
@@ -14,16 +13,29 @@
 ## 🌼 저를 소개합니다
 🐥 호기심 많은 개발 공부생  
 🍠 닉네임처럼 따뜻한 고구마 감성 ☁️  
-🍀 지금은 **Java, Go, 웹 개발**을 배우는 중이에요  
+🍀 **Java, Spring Boot, React, Go** 중심의 풀스택 개발을 배우고 가꾸는 중이에요  
 
 ---
 
 ## 🎀 기술 스택
-<img src="https://img.shields.io/badge/Java-FFD6A5?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-FFB5E8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-FFF685?style=for-the-badge&logo=html5&logoColor=black"/>
-<img src="https://img.shields.io/badge/CSS-FFC6FF?style=for-the-badge&logo=css3&logoColor=white"/>
+
+### 💻 Frontend
+<img src="https://img.shields.io/badge/React-FFB5E8?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-FFFA9E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-C5A3FF?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-FFF685?style=for-the-badge&logo=html5&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-FFC6FF?style=for-the-badge&logo=css3&logoColor=white"/>
+
+### ⚙️ Backend
+<img src="https://img.shields.io/badge/Java-FFD6A5?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-B5EAD7?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-E2F0CB?style=for-the-badge&logo=spring&logoColor=black"/>
+<img src="https://img.shields.io/badge/Go-BFFCC6?style=for-the-badge&logo=go&logoColor=white"/>
+
+### 🗄️ Database & Tools
+<img src="https://img.shields.io/badge/MySQL-FFDAC1?style=for-the-badge&logo=mysql&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-FFB7B2?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-FFF0F5?style=for-the-badge&logo=github&logoColor=black"/>
 
 ---
 
