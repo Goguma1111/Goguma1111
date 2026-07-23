@@ -40,7 +40,8 @@
 ---
 
 ## 🌟 깃허브 통계
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goguma1111&layout=compact&theme=tokyonight&title_color=FFB6C1" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=goguma1111&show_icons=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=FFB6C1&text_color=555555" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goguma1111&layout=compact&bg_color=FFF0F5&title_color=FF69B4&text_color=555555" height="150"/>
 
 ---
 
